@@ -1,4 +1,4 @@
-package practise;
+package com.company.practise.school;
 
 public class Array1 {
     private int[] data;

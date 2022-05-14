@@ -1,4 +1,4 @@
-package practise;
+package com.company.practise.school;
 
 import java.util.ArrayList;
 
